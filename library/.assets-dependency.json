@@ -1,0 +1,18 @@
+{
+  "data": {
+    "path": {
+      "resources\\effect\\gamehall_effect_touch_tex.json": [
+        "resources\\effect\\gamehall_effect_touch_tex.png"
+      ],
+      "resources\\effect\\vfx_bottom_event_btn_vip.json": [
+        "resources\\effect\\vfx_bottom_event_btn_vip.atlas"
+      ]
+    },
+    "uuid": {
+      "resources\\effect\\vfx_bottom_event_btn_vip.json": [
+        "0ded1e16-a899-40ca-8ecb-013ea58ce82d@6c48a"
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

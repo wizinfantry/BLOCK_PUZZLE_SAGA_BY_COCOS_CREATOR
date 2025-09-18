@@ -1,0 +1,1186 @@
+{
+  "15a78091-e324-4cf4-891b-f0b3c40b810e": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "1a8d8adb-302d-4e40-bb7f-aa1ef7d5f565": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "2f972606-253b-4331-9a7f-18619a0bce40": {
+    "url": "db://assets/script",
+    "value": {},
+    "versionCode": 1
+  },
+  "873595ea-0322-4074-9ba8-a2b38ffbfcb8": {
+    "url": "db://assets/resources/effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "ba688800-afe9-4912-84dd-871526b50f65": {
+    "url": "db://assets/resources/font",
+    "value": {},
+    "versionCode": 1
+  },
+  "82da4d7c-cd5c-46cf-b2f7-fcee79a45053": {
+    "url": "db://assets/resources/image",
+    "value": {},
+    "versionCode": 1
+  },
+  "2022e2ac-bd16-4ab1-b8f3-e560e7dc2156": {
+    "url": "db://assets/resources/prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "9fc12655-bfbb-435d-a2cf-7b1174cef9af": {
+    "url": "db://assets/resources/image/gameList",
+    "value": {},
+    "versionCode": 1
+  },
+  "a3ce9274-9834-41cd-8755-4a54d1a54d19": {
+    "url": "db://assets/resources/prefab/item",
+    "value": {},
+    "versionCode": 1
+  },
+  "7553c31e-cf20-4409-b8a1-dd631af41652": {
+    "url": "db://assets/resources/prefab/popup",
+    "value": {},
+    "versionCode": 1
+  },
+  "876ea722-24c7-4e47-901f-1ea674098fd0": {
+    "url": "db://assets/resources/prefab/scene",
+    "value": {},
+    "versionCode": 1
+  },
+  "dd728535-c365-4958-91cf-19e0bac6c66b": {
+    "url": "db://assets/scene/rootScene.scene",
+    "value": {
+      "depends": [
+        "dd728535-c365-4958-91cf-19e0bac6c66b"
+      ],
+      "dependScripts": [
+        "6663e8d2-58f3-4aaf-a412-c8284abc91cb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9cb808c0-5800-41e2-a468-676ded84b8d5": {
+    "url": "db://assets/script/gameDataClass.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6d23b861-e45b-4d18-b2c7-2597cfb3b0c9": {
+    "url": "db://assets/script/mainSceneClass.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f64b4fee-5a90-4dbc-b91e-e4b9ca886054": {
+    "url": "db://assets/script/preloadSceneClass.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6663e8d2-58f3-4aaf-a412-c8284abc91cb": {
+    "url": "db://assets/script/rootScene.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ed48a3fc-ddef-402a-b937-2e94c02e0896": {
+    "url": "db://assets/script/utils.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5d6ec993-6927-464b-8c1b-496c1197eb0e": {
+    "url": "db://assets/resources/effect/gamehall_effect_touch_ske.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "26b0bc81-4e02-4fb3-8645-284d1f70d15d": {
+    "url": "db://assets/resources/effect/gamehall_effect_touch_tex.json",
+    "value": {
+      "depends": [
+        "0ac5e6eb-6075-46db-952f-d44847886cbb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ac5e6eb-6075-46db-952f-d44847886cbb": {
+    "url": "db://assets/resources/effect/gamehall_effect_touch_tex.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "67f96077-0223-4b91-9aef-2649ad0f0e2d": {
+    "url": "db://assets/resources/effect/vfx_bottom_event_btn_vip.atlas",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "130da6cf-b78d-40d9-b3e3-85b1f95387d4": {
+    "url": "db://assets/resources/effect/vfx_bottom_event_btn_vip.json",
+    "value": {
+      "depends": [
+        "0ded1e16-a899-40ca-8ecb-013ea58ce82d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ded1e16-a899-40ca-8ecb-013ea58ce82d": {
+    "url": "db://assets/resources/effect/vfx_bottom_event_btn_vip.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ef2e9238-23de-4d9d-b4e0-ebaf10b8d04c": {
+    "url": "db://assets/resources/font/Berkelium.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf": {
+    "url": "db://assets/resources/font/Emulogic.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b2f81054-9886-4450-9e25-59d9fa82b681": {
+    "url": "db://assets/resources/font/ghostclan.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "afd9c6ff-9575-451a-86e4-66de59dfb934": {
+    "url": "db://assets/resources/font/jakiganicfont13.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "495bb7c3-2614-45bd-9653-3148aa26d650": {
+    "url": "db://assets/resources/font/Minecraft.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4309643c-9f81-4f05-9fa5-329c2bb69145": {
+    "url": "db://assets/resources/font/PICO8.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0ac5e6eb-6075-46db-952f-d44847886cbb@6c48a": {
+    "url": "db://assets/resources/effect/gamehall_effect_touch_tex.png@6c48a",
+    "value": {
+      "depends": [
+        "0ac5e6eb-6075-46db-952f-d44847886cbb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb8eb0f4-3f9e-4d2a-bd62-9654e99af2d4": {
+    "url": "db://assets/resources/font/Pixeboy.ttf",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "27dd7019-fdba-419a-a85f-934913cdf9cc": {
+    "url": "db://assets/resources/image/gamehall_bigBg5.webp",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "0ac5e6eb-6075-46db-952f-d44847886cbb@f9941": {
+    "url": "db://assets/resources/effect/gamehall_effect_touch_tex.png@f9941",
+    "value": {
+      "depends": [
+        "0ac5e6eb-6075-46db-952f-d44847886cbb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab65563-218c-41d4-9c15-b1716c23c253": {
+    "url": "db://assets/resources/image/gamehall_b_frame.webp",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "6f7802c8-6431-4d24-aa08-036097c9a059": {
+    "url": "db://assets/resources/image/gamehall_more_select.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "aea27055-0a94-4b97-a903-15afd67e45bb": {
+    "url": "db://assets/resources/image/gamehall_top_goldbar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "27dd7019-fdba-419a-a85f-934913cdf9cc@6c48a": {
+    "url": "db://assets/resources/image/gamehall_bigBg5.webp@6c48a",
+    "value": {
+      "depends": [
+        "27dd7019-fdba-419a-a85f-934913cdf9cc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ded1e16-a899-40ca-8ecb-013ea58ce82d@6c48a": {
+    "url": "db://assets/resources/effect/vfx_bottom_event_btn_vip.png@6c48a",
+    "value": {
+      "depends": [
+        "0ded1e16-a899-40ca-8ecb-013ea58ce82d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab65563-218c-41d4-9c15-b1716c23c253@6c48a": {
+    "url": "db://assets/resources/image/gamehall_b_frame.webp@6c48a",
+    "value": {
+      "depends": [
+        "0ab65563-218c-41d4-9c15-b1716c23c253"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6f7802c8-6431-4d24-aa08-036097c9a059@6c48a": {
+    "url": "db://assets/resources/image/gamehall_more_select.png@6c48a",
+    "value": {
+      "depends": [
+        "6f7802c8-6431-4d24-aa08-036097c9a059"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aea27055-0a94-4b97-a903-15afd67e45bb@6c48a": {
+    "url": "db://assets/resources/image/gamehall_top_goldbar.png@6c48a",
+    "value": {
+      "depends": [
+        "aea27055-0a94-4b97-a903-15afd67e45bb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ded1e16-a899-40ca-8ecb-013ea58ce82d@f9941": {
+    "url": "db://assets/resources/effect/vfx_bottom_event_btn_vip.png@f9941",
+    "value": {
+      "depends": [
+        "0ded1e16-a899-40ca-8ecb-013ea58ce82d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "83809273-0e9d-49e7-9108-68cd57ccb845": {
+    "url": "db://assets/resources/image/Hall_TopBg.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "6f7802c8-6431-4d24-aa08-036097c9a059@f9941": {
+    "url": "db://assets/resources/image/gamehall_more_select.png@f9941",
+    "value": {
+      "depends": [
+        "6f7802c8-6431-4d24-aa08-036097c9a059@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92f4042b-6bdb-42e1-a625-050efa416796": {
+    "url": "db://assets/resources/image/rewardIcon.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "aea27055-0a94-4b97-a903-15afd67e45bb@f9941": {
+    "url": "db://assets/resources/image/gamehall_top_goldbar.png@f9941",
+    "value": {
+      "depends": [
+        "aea27055-0a94-4b97-a903-15afd67e45bb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab65563-218c-41d4-9c15-b1716c23c253@f9941": {
+    "url": "db://assets/resources/image/gamehall_b_frame.webp@f9941",
+    "value": {
+      "depends": [
+        "0ab65563-218c-41d4-9c15-b1716c23c253@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dd5f6621-95d5-4452-9da6-bf89c5bb255e": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_FILL.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "13116e5e-94bb-41cd-a78a-2201e0d0bc1e": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_MUST_FALL.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "27dd7019-fdba-419a-a85f-934913cdf9cc@f9941": {
+    "url": "db://assets/resources/image/gamehall_bigBg5.webp@f9941",
+    "value": {
+      "depends": [
+        "27dd7019-fdba-419a-a85f-934913cdf9cc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b534e897-7336-4b75-a42c-a9885eadcbd8": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_TRIANGLE_PUZZLE.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dd5f6621-95d5-4452-9da6-bf89c5bb255e@6c48a": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_FILL.png@6c48a",
+    "value": {
+      "depends": [
+        "dd5f6621-95d5-4452-9da6-bf89c5bb255e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "83809273-0e9d-49e7-9108-68cd57ccb845@6c48a": {
+    "url": "db://assets/resources/image/Hall_TopBg.png@6c48a",
+    "value": {
+      "depends": [
+        "83809273-0e9d-49e7-9108-68cd57ccb845"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b534e897-7336-4b75-a42c-a9885eadcbd8@6c48a": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_TRIANGLE_PUZZLE.png@6c48a",
+    "value": {
+      "depends": [
+        "b534e897-7336-4b75-a42c-a9885eadcbd8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "13116e5e-94bb-41cd-a78a-2201e0d0bc1e@6c48a": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_MUST_FALL.png@6c48a",
+    "value": {
+      "depends": [
+        "13116e5e-94bb-41cd-a78a-2201e0d0bc1e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "83809273-0e9d-49e7-9108-68cd57ccb845@f9941": {
+    "url": "db://assets/resources/image/Hall_TopBg.png@f9941",
+    "value": {
+      "depends": [
+        "83809273-0e9d-49e7-9108-68cd57ccb845@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a84c4eee-7e0f-4a7f-a37a-f470b574185c": {
+    "url": "db://assets/resources/image/gameList/BLOCK_SLIDER.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dd5f6621-95d5-4452-9da6-bf89c5bb255e@f9941": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_FILL.png@f9941",
+    "value": {
+      "depends": [
+        "dd5f6621-95d5-4452-9da6-bf89c5bb255e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bf2f8f2-86bd-43dd-b95e-7a2de694b369": {
+    "url": "db://assets/resources/image/gameList/BLOCK_UP.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "13116e5e-94bb-41cd-a78a-2201e0d0bc1e@f9941": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_MUST_FALL.png@f9941",
+    "value": {
+      "depends": [
+        "13116e5e-94bb-41cd-a78a-2201e0d0bc1e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b534e897-7336-4b75-a42c-a9885eadcbd8@f9941": {
+    "url": "db://assets/resources/image/gameList/BLOCKS_TRIANGLE_PUZZLE.png@f9941",
+    "value": {
+      "depends": [
+        "b534e897-7336-4b75-a42c-a9885eadcbd8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "339d5828-6212-48ee-9257-d82cf6554987": {
+    "url": "db://assets/resources/image/gameList/BOX_BOB.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e26ce454-abbe-4762-adeb-5e8719367521": {
+    "url": "db://assets/resources/image/gameList/BRICK_BLOCK_GAME.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "92f4042b-6bdb-42e1-a625-050efa416796@6c48a": {
+    "url": "db://assets/resources/image/rewardIcon.png@6c48a",
+    "value": {
+      "depends": [
+        "92f4042b-6bdb-42e1-a625-050efa416796"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bf2f8f2-86bd-43dd-b95e-7a2de694b369@6c48a": {
+    "url": "db://assets/resources/image/gameList/BLOCK_UP.png@6c48a",
+    "value": {
+      "depends": [
+        "5bf2f8f2-86bd-43dd-b95e-7a2de694b369"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92f4042b-6bdb-42e1-a625-050efa416796@f9941": {
+    "url": "db://assets/resources/image/rewardIcon.png@f9941",
+    "value": {
+      "depends": [
+        "92f4042b-6bdb-42e1-a625-050efa416796@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a": {
+    "url": "db://assets/resources/image/gameList/FREE_THE_KEY.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a84c4eee-7e0f-4a7f-a37a-f470b574185c@6c48a": {
+    "url": "db://assets/resources/image/gameList/BLOCK_SLIDER.png@6c48a",
+    "value": {
+      "depends": [
+        "a84c4eee-7e0f-4a7f-a37a-f470b574185c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "339d5828-6212-48ee-9257-d82cf6554987@6c48a": {
+    "url": "db://assets/resources/image/gameList/BOX_BOB.png@6c48a",
+    "value": {
+      "depends": [
+        "339d5828-6212-48ee-9257-d82cf6554987"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5bf2f8f2-86bd-43dd-b95e-7a2de694b369@f9941": {
+    "url": "db://assets/resources/image/gameList/BLOCK_UP.png@f9941",
+    "value": {
+      "depends": [
+        "5bf2f8f2-86bd-43dd-b95e-7a2de694b369@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "118ca560-9915-4f0a-b58b-d61666b20798": {
+    "url": "db://assets/resources/image/gameList/HEAP_UP_BOX.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e26ce454-abbe-4762-adeb-5e8719367521@6c48a": {
+    "url": "db://assets/resources/image/gameList/BRICK_BLOCK_GAME.png@6c48a",
+    "value": {
+      "depends": [
+        "e26ce454-abbe-4762-adeb-5e8719367521"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a84c4eee-7e0f-4a7f-a37a-f470b574185c@f9941": {
+    "url": "db://assets/resources/image/gameList/BLOCK_SLIDER.png@f9941",
+    "value": {
+      "depends": [
+        "a84c4eee-7e0f-4a7f-a37a-f470b574185c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2be0f044-ae44-418a-a96a-560efaa78efb": {
+    "url": "db://assets/resources/image/gameList/HEXAGON_FALL.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "339d5828-6212-48ee-9257-d82cf6554987@f9941": {
+    "url": "db://assets/resources/image/gameList/BOX_BOB.png@f9941",
+    "value": {
+      "depends": [
+        "339d5828-6212-48ee-9257-d82cf6554987@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "584495eb-9ee2-4e39-9415-abd12f2aaf06": {
+    "url": "db://assets/resources/image/gameList/HEXA_JUNGLE.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e26ce454-abbe-4762-adeb-5e8719367521@f9941": {
+    "url": "db://assets/resources/image/gameList/BRICK_BLOCK_GAME.png@f9941",
+    "value": {
+      "depends": [
+        "e26ce454-abbe-4762-adeb-5e8719367521@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a7078dbc-6ea1-4d77-8724-4ecebdb47298": {
+    "url": "db://assets/resources/image/gameList/JELLY_BLOCKS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a@6c48a": {
+    "url": "db://assets/resources/image/gameList/FREE_THE_KEY.png@6c48a",
+    "value": {
+      "depends": [
+        "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "118ca560-9915-4f0a-b58b-d61666b20798@6c48a": {
+    "url": "db://assets/resources/image/gameList/HEAP_UP_BOX.png@6c48a",
+    "value": {
+      "depends": [
+        "118ca560-9915-4f0a-b58b-d61666b20798"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2be0f044-ae44-418a-a96a-560efaa78efb@6c48a": {
+    "url": "db://assets/resources/image/gameList/HEXAGON_FALL.png@6c48a",
+    "value": {
+      "depends": [
+        "2be0f044-ae44-418a-a96a-560efaa78efb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "118ca560-9915-4f0a-b58b-d61666b20798@f9941": {
+    "url": "db://assets/resources/image/gameList/HEAP_UP_BOX.png@f9941",
+    "value": {
+      "depends": [
+        "118ca560-9915-4f0a-b58b-d61666b20798@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3811a84f-1bc4-4fcc-a824-c25487c6a3a8": {
+    "url": "db://assets/resources/image/gameList/MAGIC_HEROBRINE.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a@f9941": {
+    "url": "db://assets/resources/image/gameList/FREE_THE_KEY.png@f9941",
+    "value": {
+      "depends": [
+        "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47": {
+    "url": "db://assets/resources/image/gameList/MAGNETIC_BLOCKS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2be0f044-ae44-418a-a96a-560efaa78efb@f9941": {
+    "url": "db://assets/resources/image/gameList/HEXAGON_FALL.png@f9941",
+    "value": {
+      "depends": [
+        "2be0f044-ae44-418a-a96a-560efaa78efb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0981927d-a0a0-4f3a-98cc-c0f5685710df": {
+    "url": "db://assets/resources/image/gameList/MONSTER_MATCH.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "584495eb-9ee2-4e39-9415-abd12f2aaf06@6c48a": {
+    "url": "db://assets/resources/image/gameList/HEXA_JUNGLE.png@6c48a",
+    "value": {
+      "depends": [
+        "584495eb-9ee2-4e39-9415-abd12f2aaf06"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a7078dbc-6ea1-4d77-8724-4ecebdb47298@6c48a": {
+    "url": "db://assets/resources/image/gameList/JELLY_BLOCKS.png@6c48a",
+    "value": {
+      "depends": [
+        "a7078dbc-6ea1-4d77-8724-4ecebdb47298"
+      ]
+    },
+    "versionCode": 1
+  },
+  "584495eb-9ee2-4e39-9415-abd12f2aaf06@f9941": {
+    "url": "db://assets/resources/image/gameList/HEXA_JUNGLE.png@f9941",
+    "value": {
+      "depends": [
+        "584495eb-9ee2-4e39-9415-abd12f2aaf06@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e92898c9-030e-4ea1-b54f-70da44e94601": {
+    "url": "db://assets/resources/image/gameList/MY_T3TR1S.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a7078dbc-6ea1-4d77-8724-4ecebdb47298@f9941": {
+    "url": "db://assets/resources/image/gameList/JELLY_BLOCKS.png@f9941",
+    "value": {
+      "depends": [
+        "a7078dbc-6ea1-4d77-8724-4ecebdb47298@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a2ee6afa-0d0b-4e12-9428-a855ccf1e591": {
+    "url": "db://assets/resources/image/gameList/PICO_TETRIS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47@6c48a": {
+    "url": "db://assets/resources/image/gameList/MAGNETIC_BLOCKS.png@6c48a",
+    "value": {
+      "depends": [
+        "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3811a84f-1bc4-4fcc-a824-c25487c6a3a8@6c48a": {
+    "url": "db://assets/resources/image/gameList/MAGIC_HEROBRINE.png@6c48a",
+    "value": {
+      "depends": [
+        "3811a84f-1bc4-4fcc-a824-c25487c6a3a8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0981927d-a0a0-4f3a-98cc-c0f5685710df@6c48a": {
+    "url": "db://assets/resources/image/gameList/MONSTER_MATCH.png@6c48a",
+    "value": {
+      "depends": [
+        "0981927d-a0a0-4f3a-98cc-c0f5685710df"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3811a84f-1bc4-4fcc-a824-c25487c6a3a8@f9941": {
+    "url": "db://assets/resources/image/gameList/MAGIC_HEROBRINE.png@f9941",
+    "value": {
+      "depends": [
+        "3811a84f-1bc4-4fcc-a824-c25487c6a3a8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98e11977-9027-4fc5-b133-7a26c4ae801c": {
+    "url": "db://assets/resources/image/gameList/PUSH_OUT.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47@f9941": {
+    "url": "db://assets/resources/image/gameList/MAGNETIC_BLOCKS.png@f9941",
+    "value": {
+      "depends": [
+        "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a2136f04-ca38-4e58-a509-284ce752e744": {
+    "url": "db://assets/resources/image/gameList/SLIDING_BRICKS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e92898c9-030e-4ea1-b54f-70da44e94601@6c48a": {
+    "url": "db://assets/resources/image/gameList/MY_T3TR1S.png@6c48a",
+    "value": {
+      "depends": [
+        "e92898c9-030e-4ea1-b54f-70da44e94601"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0981927d-a0a0-4f3a-98cc-c0f5685710df@f9941": {
+    "url": "db://assets/resources/image/gameList/MONSTER_MATCH.png@f9941",
+    "value": {
+      "depends": [
+        "0981927d-a0a0-4f3a-98cc-c0f5685710df@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "60db0e99-52d8-4e8b-8e9a-dcb01bae272f": {
+    "url": "db://assets/resources/image/gameList/SPINNING_BLOCK.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e92898c9-030e-4ea1-b54f-70da44e94601@f9941": {
+    "url": "db://assets/resources/image/gameList/MY_T3TR1S.png@f9941",
+    "value": {
+      "depends": [
+        "e92898c9-030e-4ea1-b54f-70da44e94601@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4883b8cb-137d-41ed-8648-76b9ab80a1d6": {
+    "url": "db://assets/resources/image/gameList/STACKY_STACK.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a2ee6afa-0d0b-4e12-9428-a855ccf1e591@6c48a": {
+    "url": "db://assets/resources/image/gameList/PICO_TETRIS.png@6c48a",
+    "value": {
+      "depends": [
+        "a2ee6afa-0d0b-4e12-9428-a855ccf1e591"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a2136f04-ca38-4e58-a509-284ce752e744@6c48a": {
+    "url": "db://assets/resources/image/gameList/SLIDING_BRICKS.png@6c48a",
+    "value": {
+      "depends": [
+        "a2136f04-ca38-4e58-a509-284ce752e744"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a2ee6afa-0d0b-4e12-9428-a855ccf1e591@f9941": {
+    "url": "db://assets/resources/image/gameList/PICO_TETRIS.png@f9941",
+    "value": {
+      "depends": [
+        "a2ee6afa-0d0b-4e12-9428-a855ccf1e591@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "574ec14f-2190-457a-9a83-da90ba431048": {
+    "url": "db://assets/resources/image/gameList/SWITCHWAYS_DIMENSIONS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "98e11977-9027-4fc5-b133-7a26c4ae801c@6c48a": {
+    "url": "db://assets/resources/image/gameList/PUSH_OUT.png@6c48a",
+    "value": {
+      "depends": [
+        "98e11977-9027-4fc5-b133-7a26c4ae801c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "60db0e99-52d8-4e8b-8e9a-dcb01bae272f@6c48a": {
+    "url": "db://assets/resources/image/gameList/SPINNING_BLOCK.png@6c48a",
+    "value": {
+      "depends": [
+        "60db0e99-52d8-4e8b-8e9a-dcb01bae272f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98e11977-9027-4fc5-b133-7a26c4ae801c@f9941": {
+    "url": "db://assets/resources/image/gameList/PUSH_OUT.png@f9941",
+    "value": {
+      "depends": [
+        "98e11977-9027-4fc5-b133-7a26c4ae801c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "55be489a-a2af-49c3-b52c-f4f81e9d20db": {
+    "url": "db://assets/resources/image/gameList/TETRA_BLOCKS.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a2136f04-ca38-4e58-a509-284ce752e744@f9941": {
+    "url": "db://assets/resources/image/gameList/SLIDING_BRICKS.png@f9941",
+    "value": {
+      "depends": [
+        "a2136f04-ca38-4e58-a509-284ce752e744@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "02f4a601-eb20-4e5b-a7a4-01074fa12a7c": {
+    "url": "db://assets/resources/image/gameList/WOODEN_SLIDE.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4883b8cb-137d-41ed-8648-76b9ab80a1d6@6c48a": {
+    "url": "db://assets/resources/image/gameList/STACKY_STACK.png@6c48a",
+    "value": {
+      "depends": [
+        "4883b8cb-137d-41ed-8648-76b9ab80a1d6"
+      ]
+    },
+    "versionCode": 1
+  },
+  "60db0e99-52d8-4e8b-8e9a-dcb01bae272f@f9941": {
+    "url": "db://assets/resources/image/gameList/SPINNING_BLOCK.png@f9941",
+    "value": {
+      "depends": [
+        "60db0e99-52d8-4e8b-8e9a-dcb01bae272f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "deafd27d-aab0-43d6-a8da-28a46a4d8603": {
+    "url": "db://assets/resources/image/gameList/ZERO_SQUARES.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4883b8cb-137d-41ed-8648-76b9ab80a1d6@f9941": {
+    "url": "db://assets/resources/image/gameList/STACKY_STACK.png@f9941",
+    "value": {
+      "depends": [
+        "4883b8cb-137d-41ed-8648-76b9ab80a1d6@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "574ec14f-2190-457a-9a83-da90ba431048@6c48a": {
+    "url": "db://assets/resources/image/gameList/SWITCHWAYS_DIMENSIONS.png@6c48a",
+    "value": {
+      "depends": [
+        "574ec14f-2190-457a-9a83-da90ba431048"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1a79d01a-76d0-4597-8ea2-efba94279896": {
+    "url": "db://assets/resources/prefab/item/fabAddGameItem.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "5d6ec993-6927-464b-8c1b-496c1197eb0e",
+        "26b0bc81-4e02-4fb3-8645-284d1f70d15d",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "55be489a-a2af-49c3-b52c-f4f81e9d20db@6c48a": {
+    "url": "db://assets/resources/image/gameList/TETRA_BLOCKS.png@6c48a",
+    "value": {
+      "depends": [
+        "55be489a-a2af-49c3-b52c-f4f81e9d20db"
+      ]
+    },
+    "versionCode": 1
+  },
+  "574ec14f-2190-457a-9a83-da90ba431048@f9941": {
+    "url": "db://assets/resources/image/gameList/SWITCHWAYS_DIMENSIONS.png@f9941",
+    "value": {
+      "depends": [
+        "574ec14f-2190-457a-9a83-da90ba431048@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "80f69d4f-d72e-406f-854f-4fa642c8f7f5": {
+    "url": "db://assets/resources/prefab/item/fabCoinItem.prefab",
+    "value": {
+      "depends": [
+        "130da6cf-b78d-40d9-b3e3-85b1f95387d4",
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "92f4042b-6bdb-42e1-a625-050efa416796@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "55be489a-a2af-49c3-b52c-f4f81e9d20db@f9941": {
+    "url": "db://assets/resources/image/gameList/TETRA_BLOCKS.png@f9941",
+    "value": {
+      "depends": [
+        "55be489a-a2af-49c3-b52c-f4f81e9d20db@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "95e79919-9351-4260-8602-f936b24ebd0a": {
+    "url": "db://assets/resources/prefab/item/fabGameItem.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "5d6ec993-6927-464b-8c1b-496c1197eb0e",
+        "26b0bc81-4e02-4fb3-8645-284d1f70d15d",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "deafd27d-aab0-43d6-a8da-28a46a4d8603@6c48a": {
+    "url": "db://assets/resources/image/gameList/ZERO_SQUARES.png@6c48a",
+    "value": {
+      "depends": [
+        "deafd27d-aab0-43d6-a8da-28a46a4d8603"
+      ]
+    },
+    "versionCode": 1
+  },
+  "441b8113-fe6d-49c6-b49e-d1ee6e971bd5": {
+    "url": "db://assets/resources/prefab/popup/fabDailyPromotion.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "02f4a601-eb20-4e5b-a7a4-01074fa12a7c@6c48a": {
+    "url": "db://assets/resources/image/gameList/WOODEN_SLIDE.png@6c48a",
+    "value": {
+      "depends": [
+        "02f4a601-eb20-4e5b-a7a4-01074fa12a7c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "deafd27d-aab0-43d6-a8da-28a46a4d8603@f9941": {
+    "url": "db://assets/resources/image/gameList/ZERO_SQUARES.png@f9941",
+    "value": {
+      "depends": [
+        "deafd27d-aab0-43d6-a8da-28a46a4d8603@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "605488df-9a0c-448c-bc8a-bffdf9520d54": {
+    "url": "db://assets/resources/prefab/popup/fabGameAdd.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "02f4a601-eb20-4e5b-a7a4-01074fa12a7c@f9941": {
+    "url": "db://assets/resources/image/gameList/WOODEN_SLIDE.png@f9941",
+    "value": {
+      "depends": [
+        "02f4a601-eb20-4e5b-a7a4-01074fa12a7c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "412d7768-32ce-4af2-9c7b-ac8567c01507": {
+    "url": "db://assets/resources/prefab/popup/fabGamePlay.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "6341e513-0ef3-4f1e-9c22-44c608e2fd79": {
+    "url": "db://assets/resources/prefab/popup/fabGameRemove.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "c1d33d05-344c-4ae9-90f5-0ab9d0d709ad": {
+    "url": "db://assets/resources/prefab/popup/fabMessageBox.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "3ee9efda-7fa7-42fb-b635-39dc4053cb41": {
+    "url": "db://assets/resources/prefab/popup/fabVoteGame.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "1b96fd48-8816-4002-a61e-79708804759c": {
+    "url": "db://assets/resources/prefab/popup/fabWatchVideo.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "79905e94-7ed2-48ad-82dc-b14617a88b97": {
+    "url": "db://assets/resources/prefab/scene/fabMainScene.prefab",
+    "value": {
+      "depends": [
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "50eb5eb2-1aa9-45f4-8c5b-ac953c66ca97": {
+    "url": "db://assets/resources/prefab/scene/fabPreloadScene.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "8e1de754-1f27-4010-9576-3da3181a8360": {
+    "url": "db://assets/resources/prefab/scene/fabWebViewScene.prefab",
+    "value": {
+      "depends": [
+        "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  }
+}

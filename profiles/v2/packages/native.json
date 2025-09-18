@@ -1,0 +1,59 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1686542671160": {
+        "encrypted": false,
+        "xxteaKey": "c2/DqePA1AWICmrc",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1686921273991": {
+        "encrypted": false,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1686922610842": {
+        "encrypted": true,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1688096335881": {
+        "encrypted": true,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1688096374193": {
+        "encrypted": true,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1717995367716": {
+        "encrypted": true,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      }
+    },
+    "__version__": "1.3.5",
+    "options": {
+      "android": {
+        "encrypted": true,
+        "xxteaKey": "f5R4d15YlDJJXIuv",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      }
+    }
+  }
+}

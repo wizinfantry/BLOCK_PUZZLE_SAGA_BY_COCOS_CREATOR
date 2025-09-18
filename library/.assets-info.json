@@ -1,0 +1,524 @@
+{
+  "version": "1.0.1",
+  "map": {
+    "resources": {
+      "time": 1758194977795.2852,
+      "uuid": "15a78091-e324-4cf4-891b-f0b3c40b810e"
+    },
+    "scene": {
+      "time": 1758194977833.0825,
+      "uuid": "1a8d8adb-302d-4e40-bb7f-aa1ef7d5f565"
+    },
+    "script": {
+      "time": 1758194977956.638,
+      "uuid": "2f972606-253b-4331-9a7f-18619a0bce40"
+    },
+    "resources\\effect": {
+      "time": 1758194976255.6885,
+      "uuid": "873595ea-0322-4074-9ba8-a2b38ffbfcb8"
+    },
+    "resources\\font": {
+      "time": 1758194976440.8413,
+      "uuid": "ba688800-afe9-4912-84dd-871526b50f65"
+    },
+    "resources\\image": {
+      "time": 1758194977371.952,
+      "uuid": "82da4d7c-cd5c-46cf-b2f7-fcee79a45053"
+    },
+    "resources\\prefab": {
+      "time": 1758194977787.7793,
+      "uuid": "2022e2ac-bd16-4ab1-b8f3-e560e7dc2156"
+    },
+    "resources\\image\\gameList": {
+      "time": 1758194977295.878,
+      "uuid": "9fc12655-bfbb-435d-a2cf-7b1174cef9af"
+    },
+    "resources\\prefab\\item": {
+      "time": 1758194977462.805,
+      "uuid": "a3ce9274-9834-41cd-8755-4a54d1a54d19"
+    },
+    "resources\\prefab\\popup": {
+      "time": 1758194977678.639,
+      "uuid": "7553c31e-cf20-4409-b8a1-dd631af41652"
+    },
+    "resources\\prefab\\scene": {
+      "time": 1758194977778.6816,
+      "uuid": "876ea722-24c7-4e47-901f-1ea674098fd0"
+    },
+    "scene\\rootScene.scene": {
+      "time": 1758195184200.7195,
+      "uuid": "dd728535-c365-4958-91cf-19e0bac6c66b"
+    },
+    "script\\gameDataClass.ts": {
+      "time": 1737686948094.3772,
+      "uuid": "9cb808c0-5800-41e2-a468-676ded84b8d5"
+    },
+    "script\\mainSceneClass.ts": {
+      "time": 1718854493015.177,
+      "uuid": "6d23b861-e45b-4d18-b2c7-2597cfb3b0c9"
+    },
+    "script\\preloadSceneClass.ts": {
+      "time": 1700309174238.7646,
+      "uuid": "f64b4fee-5a90-4dbc-b91e-e4b9ca886054"
+    },
+    "script\\rootScene.ts": {
+      "time": 1686889206286.5623,
+      "uuid": "6663e8d2-58f3-4aaf-a412-c8284abc91cb"
+    },
+    "script\\utils.ts": {
+      "time": 1686540268693.756,
+      "uuid": "ed48a3fc-ddef-402a-b937-2e94c02e0896"
+    },
+    "resources\\effect\\gamehall_effect_touch_ske.json": {
+      "time": 1659057672000,
+      "uuid": "5d6ec993-6927-464b-8c1b-496c1197eb0e"
+    },
+    "resources\\effect\\gamehall_effect_touch_tex.json": {
+      "time": 1659057672000,
+      "uuid": "26b0bc81-4e02-4fb3-8645-284d1f70d15d"
+    },
+    "resources\\effect\\gamehall_effect_touch_tex.png": {
+      "time": 1659057672000,
+      "uuid": "0ac5e6eb-6075-46db-952f-d44847886cbb"
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.atlas": {
+      "time": 1656077020000,
+      "uuid": "67f96077-0223-4b91-9aef-2649ad0f0e2d"
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.json": {
+      "time": 1656077020000,
+      "uuid": "130da6cf-b78d-40d9-b3e3-85b1f95387d4"
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.png": {
+      "time": 1656077026000,
+      "uuid": "0ded1e16-a899-40ca-8ecb-013ea58ce82d"
+    },
+    "resources\\font\\Berkelium.ttf": {
+      "time": 990279050000,
+      "uuid": "ef2e9238-23de-4d9d-b4e0-ebaf10b8d04c"
+    },
+    "resources\\font\\Emulogic.ttf": {
+      "time": 1682151805306.9395,
+      "uuid": "b6f9a93b-21cc-4f9c-a7d0-f053ce630cdf"
+    },
+    "resources\\font\\ghostclan.ttf": {
+      "time": 1683300040000,
+      "uuid": "b2f81054-9886-4450-9e25-59d9fa82b681"
+    },
+    "resources\\font\\jakiganicfont13.ttf": {
+      "time": 1402280060000,
+      "uuid": "afd9c6ff-9575-451a-86e4-66de59dfb934"
+    },
+    "resources\\font\\Minecraft.ttf": {
+      "time": 1436269538000,
+      "uuid": "495bb7c3-2614-45bd-9653-3148aa26d650"
+    },
+    "resources\\font\\PICO8.ttf": {
+      "time": 1681047712000,
+      "uuid": "4309643c-9f81-4f05-9fa5-329c2bb69145"
+    },
+    "resources\\font\\Pixeboy.ttf": {
+      "time": 1670090314000,
+      "uuid": "bb8eb0f4-3f9e-4d2a-bd62-9654e99af2d4"
+    },
+    "resources\\image\\gamehall_bigBg5.webp": {
+      "time": 1684754546463,
+      "uuid": "27dd7019-fdba-419a-a85f-934913cdf9cc"
+    },
+    "resources\\image\\gamehall_b_frame.webp": {
+      "time": 1684754546433,
+      "uuid": "0ab65563-218c-41d4-9c15-b1716c23c253"
+    },
+    "resources\\image\\gamehall_more_select.png": {
+      "time": 1684754546492,
+      "uuid": "6f7802c8-6431-4d24-aa08-036097c9a059"
+    },
+    "resources\\image\\gamehall_top_goldbar.png": {
+      "time": 1684754546514,
+      "uuid": "aea27055-0a94-4b97-a903-15afd67e45bb"
+    },
+    "resources\\image\\Hall_TopBg.png": {
+      "time": 1684754546529,
+      "uuid": "83809273-0e9d-49e7-9108-68cd57ccb845"
+    },
+    "resources\\image\\rewardIcon.png": {
+      "time": 1686205489523.9966,
+      "uuid": "92f4042b-6bdb-42e1-a625-050efa416796"
+    },
+    "resources\\image\\gameList\\BLOCKS_FILL.png": {
+      "time": 1691907655306.859,
+      "uuid": "dd5f6621-95d5-4452-9da6-bf89c5bb255e"
+    },
+    "resources\\image\\gameList\\BLOCKS_MUST_FALL.png": {
+      "time": 1675305183312.551,
+      "uuid": "13116e5e-94bb-41cd-a78a-2201e0d0bc1e"
+    },
+    "resources\\image\\gameList\\BLOCKS_TRIANGLE_PUZZLE.png": {
+      "time": 1694013121326.8198,
+      "uuid": "b534e897-7336-4b75-a42c-a9885eadcbd8"
+    },
+    "resources\\image\\gameList\\BLOCK_SLIDER.png": {
+      "time": 1700302248527.0361,
+      "uuid": "a84c4eee-7e0f-4a7f-a37a-f470b574185c"
+    },
+    "resources\\image\\gameList\\BLOCK_UP.png": {
+      "time": 1675305183293.5833,
+      "uuid": "5bf2f8f2-86bd-43dd-b95e-7a2de694b369"
+    },
+    "resources\\image\\gameList\\BOX_BOB.png": {
+      "time": 1700308953999.6838,
+      "uuid": "339d5828-6212-48ee-9257-d82cf6554987"
+    },
+    "resources\\image\\gameList\\BRICK_BLOCK_GAME.png": {
+      "time": 1695782914752.9058,
+      "uuid": "e26ce454-abbe-4762-adeb-5e8719367521"
+    },
+    "resources\\image\\gameList\\FREE_THE_KEY.png": {
+      "time": 1696925307882.1055,
+      "uuid": "81ffe0ad-aa84-4ba0-8975-fb9b3ead120a"
+    },
+    "resources\\image\\gameList\\HEAP_UP_BOX.png": {
+      "time": 1698140780609.2715,
+      "uuid": "118ca560-9915-4f0a-b58b-d61666b20798"
+    },
+    "resources\\image\\gameList\\HEXAGON_FALL.png": {
+      "time": 1692712135094.3313,
+      "uuid": "2be0f044-ae44-418a-a96a-560efaa78efb"
+    },
+    "resources\\image\\gameList\\HEXA_JUNGLE.png": {
+      "time": 1675305183726.4756,
+      "uuid": "584495eb-9ee2-4e39-9415-abd12f2aaf06"
+    },
+    "resources\\image\\gameList\\JELLY_BLOCKS.png": {
+      "time": 1675305183775.5024,
+      "uuid": "a7078dbc-6ea1-4d77-8724-4ecebdb47298"
+    },
+    "resources\\image\\gameList\\MAGIC_HEROBRINE.png": {
+      "time": 1675317817164.6033,
+      "uuid": "3811a84f-1bc4-4fcc-a824-c25487c6a3a8"
+    },
+    "resources\\image\\gameList\\MAGNETIC_BLOCKS.png": {
+      "time": 1675305183860.518,
+      "uuid": "3d9ba3bd-6d4a-4a4f-b353-f5bdc7018c47"
+    },
+    "resources\\image\\gameList\\MONSTER_MATCH.png": {
+      "time": 1698140760441.8445,
+      "uuid": "0981927d-a0a0-4f3a-98cc-c0f5685710df"
+    },
+    "resources\\image\\gameList\\MY_T3TR1S.png": {
+      "time": 1696928790557.1736,
+      "uuid": "e92898c9-030e-4ea1-b54f-70da44e94601"
+    },
+    "resources\\image\\gameList\\PICO_TETRIS.png": {
+      "time": 1674649329662.725,
+      "uuid": "a2ee6afa-0d0b-4e12-9428-a855ccf1e591"
+    },
+    "resources\\image\\gameList\\PUSH_OUT.png": {
+      "time": 1675305184053.6245,
+      "uuid": "98e11977-9027-4fc5-b133-7a26c4ae801c"
+    },
+    "resources\\image\\gameList\\SLIDING_BRICKS.png": {
+      "time": 1678772397939.9028,
+      "uuid": "a2136f04-ca38-4e58-a509-284ce752e744"
+    },
+    "resources\\image\\gameList\\SPINNING_BLOCK.png": {
+      "time": 1675305184124.5942,
+      "uuid": "60db0e99-52d8-4e8b-8e9a-dcb01bae272f"
+    },
+    "resources\\image\\gameList\\STACKY_STACK.png": {
+      "time": 1675305184140.5967,
+      "uuid": "4883b8cb-137d-41ed-8648-76b9ab80a1d6"
+    },
+    "resources\\image\\gameList\\SWITCHWAYS_DIMENSIONS.png": {
+      "time": 1675305184195.625,
+      "uuid": "574ec14f-2190-457a-9a83-da90ba431048"
+    },
+    "resources\\image\\gameList\\TETRA_BLOCKS.png": {
+      "time": 1700308645218.5176,
+      "uuid": "55be489a-a2af-49c3-b52c-f4f81e9d20db"
+    },
+    "resources\\image\\gameList\\WOODEN_SLIDE.png": {
+      "time": 1691906631295.7356,
+      "uuid": "02f4a601-eb20-4e5b-a7a4-01074fa12a7c"
+    },
+    "resources\\image\\gameList\\ZERO_SQUARES.png": {
+      "time": 1675305184311.628,
+      "uuid": "deafd27d-aab0-43d6-a8da-28a46a4d8603"
+    },
+    "resources\\prefab\\item\\fabAddGameItem.prefab": {
+      "time": 1758195184817.0645,
+      "uuid": "1a79d01a-76d0-4597-8ea2-efba94279896"
+    },
+    "resources\\prefab\\item\\fabCoinItem.prefab": {
+      "time": 1758195184866.6462,
+      "uuid": "80f69d4f-d72e-406f-854f-4fa642c8f7f5"
+    },
+    "resources\\prefab\\item\\fabGameItem.prefab": {
+      "time": 1758195184880.6921,
+      "uuid": "95e79919-9351-4260-8602-f936b24ebd0a"
+    },
+    "resources\\prefab\\popup\\fabDailyPromotion.prefab": {
+      "time": 1758195184890.726,
+      "uuid": "441b8113-fe6d-49c6-b49e-d1ee6e971bd5"
+    },
+    "resources\\prefab\\popup\\fabGameAdd.prefab": {
+      "time": 1758195184898.7698,
+      "uuid": "605488df-9a0c-448c-bc8a-bffdf9520d54"
+    },
+    "resources\\prefab\\popup\\fabGamePlay.prefab": {
+      "time": 1758195184909.803,
+      "uuid": "412d7768-32ce-4af2-9c7b-ac8567c01507"
+    },
+    "resources\\prefab\\popup\\fabGameRemove.prefab": {
+      "time": 1758195184930.3865,
+      "uuid": "6341e513-0ef3-4f1e-9c22-44c608e2fd79"
+    },
+    "resources\\prefab\\popup\\fabMessageBox.prefab": {
+      "time": 1758195184930.3865,
+      "uuid": "c1d33d05-344c-4ae9-90f5-0ab9d0d709ad"
+    },
+    "resources\\prefab\\popup\\fabVoteGame.prefab": {
+      "time": 1758195184948.6672,
+      "uuid": "3ee9efda-7fa7-42fb-b635-39dc4053cb41"
+    },
+    "resources\\prefab\\popup\\fabWatchVideo.prefab": {
+      "time": 1758195184948.6672,
+      "uuid": "1b96fd48-8816-4002-a61e-79708804759c"
+    },
+    "resources\\prefab\\scene\\fabMainScene.prefab": {
+      "time": 1758195184964.9077,
+      "uuid": "79905e94-7ed2-48ad-82dc-b14617a88b97"
+    },
+    "resources\\prefab\\scene\\fabPreloadScene.prefab": {
+      "time": 1758195184977.8228,
+      "uuid": "50eb5eb2-1aa9-45f4-8c5b-ac953c66ca97"
+    },
+    "resources\\prefab\\scene\\fabWebViewScene.prefab": {
+      "time": 1758195184982.3047,
+      "uuid": "8e1de754-1f27-4010-9576-3da3181a8360"
+    },
+    "resources.meta": {
+      "time": 1758195184165.7715
+    },
+    "scene.meta": {
+      "time": 1758195184166.7776
+    },
+    "script.meta": {
+      "time": 1758195184166.7776
+    },
+    "resources\\effect.meta": {
+      "time": 1758195184167.7783
+    },
+    "resources\\font.meta": {
+      "time": 1758195184168.7815
+    },
+    "resources\\image.meta": {
+      "time": 1758195184171.7827
+    },
+    "resources\\prefab.meta": {
+      "time": 1758195184173.7793
+    },
+    "resources\\image\\gameList.meta": {
+      "time": 1758195184176.684
+    },
+    "resources\\prefab\\item.meta": {
+      "time": 1758195184178.4814
+    },
+    "resources\\prefab\\popup.meta": {
+      "time": 1758195184179.4797
+    },
+    "resources\\prefab\\scene.meta": {
+      "time": 1758195184187.5176
+    },
+    "script\\gameDataClass.ts.meta": {
+      "time": 1758195184197.7224
+    },
+    "script\\mainSceneClass.ts.meta": {
+      "time": 1758195184198.72
+    },
+    "script\\preloadSceneClass.ts.meta": {
+      "time": 1758195184199.7224
+    },
+    "script\\rootScene.ts.meta": {
+      "time": 1758195184200.7195
+    },
+    "script\\utils.ts.meta": {
+      "time": 1758195184212.759
+    },
+    "resources\\effect\\gamehall_effect_touch_ske.json.meta": {
+      "time": 1684817170082.1514
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.atlas.meta": {
+      "time": 1686204972290.9712
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.json.meta": {
+      "time": 1758195184245.4531
+    },
+    "scene\\rootScene.scene.meta": {
+      "time": 1758195184246.6982
+    },
+    "resources\\font\\Berkelium.ttf.meta": {
+      "time": 1683072309544.9226
+    },
+    "resources\\font\\ghostclan.ttf.meta": {
+      "time": 1683346953909.8977
+    },
+    "resources\\font\\Emulogic.ttf.meta": {
+      "time": 1683072309556.923
+    },
+    "resources\\font\\jakiganicfont13.ttf.meta": {
+      "time": 1683304087377.653
+    },
+    "resources\\font\\PICO8.ttf.meta": {
+      "time": 1683072309573.923
+    },
+    "resources\\effect\\gamehall_effect_touch_tex.png.meta": {
+      "time": 1758195184293.2708
+    },
+    "resources\\font\\Minecraft.ttf.meta": {
+      "time": 1683072309565.9226
+    },
+    "resources\\effect\\gamehall_effect_touch_tex.json.meta": {
+      "time": 1684817170122.1528
+    },
+    "resources\\font\\Pixeboy.ttf.meta": {
+      "time": 1683072309582.9236
+    },
+    "resources\\effect\\vfx_bottom_event_btn_vip.png.meta": {
+      "time": 1758195184363.2927
+    },
+    "resources\\image\\gamehall_more_select.png.meta": {
+      "time": 1758195184369.4001
+    },
+    "resources\\image\\gamehall_top_goldbar.png.meta": {
+      "time": 1758195184378.933
+    },
+    "resources\\image\\gamehall_b_frame.webp.meta": {
+      "time": 1758195184380.453
+    },
+    "resources\\image\\gamehall_bigBg5.webp.meta": {
+      "time": 1758195184391.0862
+    },
+    "resources\\image\\Hall_TopBg.png.meta": {
+      "time": 1758195184448.438
+    },
+    "resources\\image\\gameList\\BLOCKS_FILL.png.meta": {
+      "time": 1758195184458.584
+    },
+    "resources\\image\\gameList\\BLOCKS_MUST_FALL.png.meta": {
+      "time": 1758195184462.1018
+    },
+    "resources\\image\\gameList\\BLOCKS_TRIANGLE_PUZZLE.png.meta": {
+      "time": 1758195184464.6118
+    },
+    "resources\\image\\rewardIcon.png.meta": {
+      "time": 1758195184501.4277
+    },
+    "resources\\image\\gameList\\BLOCK_UP.png.meta": {
+      "time": 1758195184515.2925
+    },
+    "resources\\image\\gameList\\BLOCK_SLIDER.png.meta": {
+      "time": 1758195184525.3496
+    },
+    "resources\\image\\gameList\\BOX_BOB.png.meta": {
+      "time": 1758195184530.175
+    },
+    "resources\\image\\gameList\\BRICK_BLOCK_GAME.png.meta": {
+      "time": 1758195184540.217
+    },
+    "resources\\image\\gameList\\HEAP_UP_BOX.png.meta": {
+      "time": 1758195184590.4746
+    },
+    "resources\\image\\gameList\\FREE_THE_KEY.png.meta": {
+      "time": 1758195184593.4731
+    },
+    "resources\\image\\gameList\\HEXAGON_FALL.png.meta": {
+      "time": 1758195184598.3926
+    },
+    "resources\\image\\gameList\\HEXA_JUNGLE.png.meta": {
+      "time": 1758195184630.1462
+    },
+    "resources\\image\\gameList\\JELLY_BLOCKS.png.meta": {
+      "time": 1758195184642.1863
+    },
+    "resources\\image\\gameList\\MAGIC_HEROBRINE.png.meta": {
+      "time": 1758195184677.3948
+    },
+    "resources\\image\\gameList\\MAGNETIC_BLOCKS.png.meta": {
+      "time": 1758195184683.3945
+    },
+    "resources\\image\\gameList\\MONSTER_MATCH.png.meta": {
+      "time": 1758195184692.4553
+    },
+    "resources\\image\\gameList\\MY_T3TR1S.png.meta": {
+      "time": 1758195184711.359
+    },
+    "resources\\image\\gameList\\PICO_TETRIS.png.meta": {
+      "time": 1758195184742.3362
+    },
+    "resources\\image\\gameList\\PUSH_OUT.png.meta": {
+      "time": 1758195184763.508
+    },
+    "resources\\image\\gameList\\SLIDING_BRICKS.png.meta": {
+      "time": 1758195184766.5525
+    },
+    "resources\\image\\gameList\\SPINNING_BLOCK.png.meta": {
+      "time": 1758195184785.0703
+    },
+    "resources\\image\\gameList\\STACKY_STACK.png.meta": {
+      "time": 1758195184807.6887
+    },
+    "resources\\image\\gameList\\SWITCHWAYS_DIMENSIONS.png.meta": {
+      "time": 1758195184848.0562
+    },
+    "resources\\image\\gameList\\TETRA_BLOCKS.png.meta": {
+      "time": 1758195184850.5251
+    },
+    "resources\\prefab\\item\\fabAddGameItem.prefab.meta": {
+      "time": 1758195184873.6577
+    },
+    "resources\\image\\gameList\\ZERO_SQUARES.png.meta": {
+      "time": 1758195184891.7263
+    },
+    "resources\\image\\gameList\\WOODEN_SLIDE.png.meta": {
+      "time": 1758195184899.7673
+    },
+    "resources\\prefab\\item\\fabGameItem.prefab.meta": {
+      "time": 1758195184913.8037
+    },
+    "resources\\prefab\\item\\fabCoinItem.prefab.meta": {
+      "time": 1758195184916.6614
+    },
+    "resources\\prefab\\popup\\fabDailyPromotion.prefab.meta": {
+      "time": 1758195184934.8967
+    },
+    "resources\\prefab\\popup\\fabGameAdd.prefab.meta": {
+      "time": 1758195184937.4478
+    },
+    "resources\\prefab\\popup\\fabGamePlay.prefab.meta": {
+      "time": 1758195184950.6672
+    },
+    "resources\\prefab\\popup\\fabMessageBox.prefab.meta": {
+      "time": 1758195184967.9397
+    },
+    "resources\\prefab\\popup\\fabGameRemove.prefab.meta": {
+      "time": 1758195184971.0627
+    },
+    "resources\\prefab\\popup\\fabVoteGame.prefab.meta": {
+      "time": 1758195184989.4048
+    },
+    "resources\\prefab\\popup\\fabWatchVideo.prefab.meta": {
+      "time": 1758195184995.4436
+    },
+    "resources\\prefab\\scene\\fabPreloadScene.prefab.meta": {
+      "time": 1758195184997.455
+    },
+    "resources\\prefab\\scene\\fabMainScene.prefab.meta": {
+      "time": 1758195185001.4539
+    },
+    "resources\\prefab\\scene\\fabWebViewScene.prefab.meta": {
+      "time": 1758195185015.0015
+    }
+  },
+  "missing": {}
+}

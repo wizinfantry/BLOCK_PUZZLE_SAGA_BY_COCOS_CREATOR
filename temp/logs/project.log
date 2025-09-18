@@ -1,0 +1,40 @@
+2025. 9. 18. 20:37:10 - log: error Error: EEXIST: file already exists, symlink 'C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine\native' -> 'C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine-native'
+    at symlinkSync (node:fs:1817:11)
+    at createSymlink (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\engine\dist\browser\index.ccc:1:8437)
+    at Package.load (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\engine\dist\browser\index.ccc:1:5343)
+    at Package.execLifeFunc (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\package\dist\browser\package.ccc:1:744)
+    at Package.enable (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\package\dist\browser\package.ccc:1:3533)
+    at PackageManager.enable (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\package\dist\browser\index.js:1:1763)
+    at Object.enable (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\creator\dist\package\public\browser.ccc:3:559)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Object.startPackage (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@editor\creator\dist\startup\protected\browser\index.ccc:1:2735)
+    at async launch (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\launch\dist\launch.js:1:1952) {
+  errno: -4075,
+  code: 'EEXIST',
+  syscall: 'symlink',
+  path: 'C:\\ProgramData\\cocos\\editors\\Creator\\3.8.7\\resources\\resources\\3d\\engine\\native',
+  dest: 'C:\\ProgramData\\cocos\\editors\\Creator\\3.8.7\\resources\\resources\\3d\\engine-native'
+}
+2025. 9. 18. 20:37:10 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine
+2025. 9. 18. 20:37:10 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.7\resources\resources\3d\engine\native
+2025. 9. 18. 20:37:11 - log: Request namespace: device-list
+2025. 9. 18. 20:37:22 - log: [Scene] meshopt wasm decoder initialized
+2025. 9. 18. 20:37:22 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2025. 9. 18. 20:37:22 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2025. 9. 18. 20:37:22 - log: [Scene] [PHYSICS]: using builtin.
+2025. 9. 18. 20:37:22 - log: [Scene] Cocos Creator v3.8.7
+2025. 9. 18. 20:37:22 - log: [Scene] Using legacy pipeline
+2025. 9. 18. 20:37:22 - log: [Scene] Forward render pipeline initialized.
+2025. 9. 18. 20:37:22 - log: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+2025. 9. 18. 20:37:38 - warn: [Window] 当前引擎模块配置内有部分模块 gfx-webgl×, gfx-webgl2× 在当前平台 android 不支持，将会自动移除或者回退成其他模块Error: [Window] 当前引擎模块配置内有部分模块 gfx-webgl×, gfx-webgl2× 在当前平台 android 不支持，将会自动移除或者回退成其他模块
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\node_modules\@sentry\core\build\cjs\utils-hoist\instrument\console.js:38:14)
+    at warnModuleFallBack (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\builder\dist\share\utils.ccc:1:3467)
+    at VueComponent.refreshEngineConfig (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\builder\dist\panels\components\settings\index.ccc:1:17919)
+    at async VueComponent.mounted (C:\ProgramData\cocos\editors\Creator\3.8.7\resources\app.asar\builtin\builder\dist\panels\components\settings\index.ccc:1:3892)
+2025. 9. 18. 20:37:38 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+2025. 9. 18. 20:37:38 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+2025. 9. 18. 20:37:58 - log: [Window] Clear cache of project assets successfully
+2025. 9. 18. 20:37:58 - log: [Window] Clear cache of engine in global successfully: {link(C:\Users\wizin\AppData\Local\Temp\CocosCreator\3.8.7\builder)}

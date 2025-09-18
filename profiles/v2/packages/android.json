@@ -1,0 +1,253 @@
+{
+  "__version__": "1.0.1",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "android",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "android",
+      "name": "BLOCK_PUZZLE_SAGA",
+      "binGroupConfig": {
+        "threshold": 16,
+        "enable": false
+      }
+    },
+    "options": {
+      "android": {
+        "packageName": "com.hpro1521.freegame.blockpuzzlesaga",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 33,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2024\\RUSTORE\\BLOCK_PUZZLE_SAGA\\BLOCK_PUZZLE_SAGA.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "BLOCK_PUZZLE_SAGA",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1",
+        "resizeableActivity": true
+      }
+    },
+    "taskOptionsMap": {
+      "1686542671160": {
+        "packageName": "com.hpro1521.freegame.rundashsaga",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 31,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2023\\RUN_DASH_SAGA\\RUN_DASH_SAGA.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "RUN_DASH_SAGA",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1686921273991": {
+        "packageName": "com.hpro1521.freegame.rundashsaga",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 31,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2023\\IDLE_AND_CLICKER\\IDLE_AND_CLICKER_GAME.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "IDLE_AND_CLICKER_GAME",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1686922610842": {
+        "packageName": "com.hpro1521.freegame.idleandclickergame",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 31,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2023\\IDLE_AND_CLICKER\\IDLE_AND_CLICKER_GAME.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "IDLE_AND_CLICKER_GAME",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1688096335881": {
+        "packageName": "com.hpro1521.freegame.idleandclickergame",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 31,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2023\\BLOCK_PUZZLE_SAGA\\BLOCK_PUZZLE_SAGA.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "BLOCK_PUZZLE_SAGA",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1688096374193": {
+        "packageName": "com.hpro1521.freegame.blockpuzzlesaga",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 31,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2023\\BLOCK_PUZZLE_SAGA\\BLOCK_PUZZLE_SAGA.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "BLOCK_PUZZLE_SAGA",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1717995367716": {
+        "packageName": "com.hpro1521.freegame.blockpuzzlesaga",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": 33,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "useDebugKeystore": false,
+        "keystorePath": "D:\\PROJECT\\COCOS\\2024\\RUSTORE\\BLOCK_PUZZLE_SAGA\\BLOCK_PUZZLE_SAGA.keystore",
+        "keystorePassword": "koner&d7",
+        "keystoreAlias": "BLOCK_PUZZLE_SAGA",
+        "keystoreAliasPassword": "koner&d7",
+        "appBundle": false,
+        "androidInstant": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      }
+    },
+    "__version__": "1.3.5"
+  }
+}
